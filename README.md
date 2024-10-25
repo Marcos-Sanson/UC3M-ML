@@ -1,4 +1,4 @@
-# Machine Learning in Healthcare
+# Machine Learning in Healthcare (Universidad Carlos III de Madrid)
 
 This repository contains code, implementations, and reports for the **Machine Learning in Healthcare** course at **Universidad Carlos III de Madrid (UC3M)**, part of the **Bachelor in Data Science and Engineering** program. Each lab focuses on advanced machine learning techniques tailored to real-world healthcare data, covering generative models, survival analysis, and point processes.
 
