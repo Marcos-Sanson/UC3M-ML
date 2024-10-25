@@ -27,7 +27,8 @@ This repository contains code, implementations, and reports for the **Machine Le
   - Cluster patients into groups based on relevant features (using K-Means or DBSCAN) and assess survival differences.
   - Compute survival functions for each cluster using Kaplan-Meier and Cox regression, interpreting Cox regression results to understand feature importance.
 - **Report:** Summarizes survival function analysis, survival differences between groups, and provides an interpretative comparison of Kaplan-Meier and Cox methods. Includes a link to the code.
-- **Files:** 
+- **Files:**
+  - [LAB02.ipynb](./LAB02.ipynb) 
 
 ### Lab 3: Modeling Patient Event Data with Point Processes
 - **Objective:** Apply point process modeling to analyze the timing and frequency of clinical events. Using Hawkes processes, this lab seeks to capture patterns in patient event data, such as recurring visits or treatments, and infer clinical insights from the model parameters.
@@ -37,6 +38,7 @@ This repository contains code, implementations, and reports for the **Machine Le
   - Discuss the clinical implications of the observed parameter variations, especially as they pertain to patient risk or healthcare utilization patterns.
 - **Report:** Highlights differences between clusters in terms of point process parameters, along with clinical interpretations and a link to the code.
 - **Files:** 
+  - (To be added) 
 
 ## Usage
 Each lab is provided as a Jupyter Notebook compatible with **Google Colab** for interactive execution. To run the labs:
