@@ -18,7 +18,7 @@ This repository contains code, implementations, and reports for the **[Machine L
   - Implement a multi-view VAE to process paired datasets.
   - Generate cross-domain images, i.e., reconstruct FashionMNIST from MNIST images and vice versa.
   - Visualize the latent space using t-SNE and PCA to assess the VAE’s ability to learn coherent cross-view representations.
-- **Report:** Includes model performance, observations on cross-domain generation, and a link to code.
+- **Report:** Includes model performance, observations on cross-domain generation, and a link to the code.
 - **Files:** 
   - [LAB01.ipynb](./LAB01.ipynb)
 
