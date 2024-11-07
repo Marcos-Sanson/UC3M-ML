@@ -44,6 +44,7 @@ This repository contains code, implementations, and reports for the **[Machine L
 
 ## Usage
 Each lab is provided as a Jupyter Notebook compatible with **Google Colab** for interactive execution. 
+
 To run the labs:
 1. **Download** or **clone** this repository.
 2. Open each `.ipynb` file in Google Colab to view, edit, and execute the code interactively.
