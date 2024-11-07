@@ -43,7 +43,9 @@ Este repositorio contiene código, implementaciones e informes para el curso **[
   - (Próximamente)
 
 ## Uso
-Cada laboratorio se proporciona como un Jupyter Notebook compatible con **Google Colab** para su ejecución interactiva. Para ejecutar los laboratorios:
+Cada laboratorio se proporciona como un Jupyter Notebook compatible con **Google Colab** para su ejecución interactiva. 
+
+Para ejecutar los laboratorios:
 1. **Descargar** o **clonar** este repositorio.
 2. Abrir cada archivo `.ipynb` en Google Colab para ver, editar y ejecutar el código de forma interactiva.
 3. Todas las dependencias y bibliotecas necesarias están detalladas en la sección de configuración de cada notebook.
