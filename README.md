@@ -8,7 +8,12 @@ This repository contains code, implementations, and reports for the **[Machine L
 - **Course:** [Machine Learning in Healthcare (16803)](https://aplicaciones.uc3m.es/cpa/generaFicha?est=350&anio=2024&plan=392&asig=16803&idioma=2) 
 - **Program:** [Bachelor in Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science)
 - **Institution:** [Universidad Carlos III de Madrid (UC3M)](https://www.uc3m.es/home)
-- **Instructor:** Professor Pablo Martínez Olmos
+- **Professors:**
+  - **Dr. Pablo Martínez Olmos**: Associate Professor, Signal Theory and Communications Department
+  - **Dr. Antonio Artés Rodríguez**: Professor, Signal Theory and Communications Department
+
+## Collaborators
+This work is a collaborative effort from both Marcos Sanson and Conrad Niewienda, under the guidance of the professors.
 
 ## Labs Overview
 
