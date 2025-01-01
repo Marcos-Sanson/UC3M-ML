@@ -36,6 +36,7 @@ This work is a collaborative effort from Marcos Sanson and Conrad Niewienda, und
   - Cluster patients into groups based on relevant features (using K-Means or DBSCAN) and assess survival differences.
   - Compute survival functions for each cluster using Kaplan-Meier and Cox regression, interpreting Cox regression results to understand feature importance.
 - **Report:** Summarizes survival function analysis, survival differences between groups, and provides an interpretative comparison of Kaplan-Meier and Cox methods. Includes a link to the code.
+  - [UC3M-ML Lab 2 Survival Analysis.pdf](./UC3M-ML%20Lab%202%20Survival%20Analysis.pdf)  
 - **Files:**
   - [LAB02.ipynb](./LAB02.ipynb) 
 
@@ -46,8 +47,14 @@ This work is a collaborative effort from Marcos Sanson and Conrad Niewienda, und
   - Compare Hawkes process parameters across clusters to infer potential differences in event dynamics (e.g., frequency, triggers).
   - Discuss the clinical implications of the observed parameter variations, especially as they pertain to patient risk or healthcare utilization patterns.
 - **Report:** Highlights differences between clusters in terms of point process parameters, along with clinical interpretations and a link to the code.
+  - [UC3M-ML Lab 3 Point Processes.pdf](./UC3M-ML%20Lab%203%20Point%20Processes.pdf)  
 - **Files:** 
   - [LAB03.ipynb](./LAB03.ipynb) 
+
+### Automatic Atrium Segmentation Project
+In addition to the three labs, this larger project focuses on developing machine learning algorithms for automatic 3D segmentation of the left atrium, particularly in patients with atrial fibrillation. The work includes preprocessing medical imaging data, building ML models, and evaluating segmentation results against manual annotations.
+
+For more details, visit this repository: **[CardiologyML - Automatic Atrium Segmentation](https://github.com/officialconfuzius/cardiologyml)**.
 
 ## Usage
 Each lab is provided as a Jupyter Notebook compatible with **Google Colab** for interactive execution. 
