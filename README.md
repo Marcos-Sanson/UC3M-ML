@@ -25,7 +25,7 @@ This work is a collaborative effort from Marcos Sanson and Conrad Niewienda, und
   - Generate cross-domain images, i.e., reconstruct FashionMNIST from MNIST images and vice versa.
   - Visualize the latent space using t-SNE and PCA to assess the VAE’s ability to learn coherent cross-view representations.
 - **Report:** Includes model performance, observations on cross-domain generation, and a link to the code.
-  - [UC3M-ML Lab 1 Implementing a Multi-View VAE for MNIST-FMNIST.pdf](./UC3M-ML Lab 1 Implementing a Multi-View VAE for MNIST-FMNIST.pdf)
+  - [UC3M-ML Lab 1 Implementing a Multi-View VAE for MNIST-FMNIST.pdf](./UC3M-ML%20Lab%201%20Implementing%20a%20Multi-View%20VAE%20for%20MNIST-FMNIST.pdf)  
 - **Code:** 
   - [LAB01.ipynb](./LAB01.ipynb)
 
