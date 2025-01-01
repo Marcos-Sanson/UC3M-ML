@@ -1,4 +1,4 @@
-[Version in English (Versión en inglés)](./README.md)
+[Version in English (versión en inglés)](./README.md)
 
 # Aprendizaje Automático en Salud
 # Universidad Carlos III de Madrid
