@@ -1,4 +1,4 @@
-[Version in Spanish/Castilian (Versión en español/castellano)](./README-es.md)
+[Version in Spanish/Castilian (versión en español/castellano)](./README-es.md)
 
 # Machine Learning in Healthcare
 # Universidad Carlos III de Madrid
