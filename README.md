@@ -45,7 +45,7 @@ This work is a collaborative effort from both Marcos Sanson and Conrad Niewienda
   - Discuss the clinical implications of the observed parameter variations, especially as they pertain to patient risk or healthcare utilization patterns.
 - **Report:** Highlights differences between clusters in terms of point process parameters, along with clinical interpretations and a link to the code.
 - **Files:** 
-  - (To be added) 
+  - [LAB03.ipynb](./LAB03.ipynb) 
 
 ## Usage
 Each lab is provided as a Jupyter Notebook compatible with **Google Colab** for interactive execution. 
