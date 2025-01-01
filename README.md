@@ -12,7 +12,7 @@ This repository contains code, implementations, and reports for the **[Machine L
   - **Dr. Pablo Martínez Olmos**: Associate Professor, Signal Theory and Communications Department
   - **Dr. Antonio Artés Rodríguez**: Professor, Signal Theory and Communications Department
 
-## Collaborators
+## Collaborators/Students
 This work is a collaborative effort from both Marcos Sanson and Conrad Niewienda, under the guidance of the professors.
 
 ## Labs Overview
