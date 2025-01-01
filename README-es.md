@@ -18,8 +18,8 @@ Este trabajo es un esfuerzo colaborativo de Marcos Sanson y Conrad Niewienda, ba
 
 ## Resumen de Laboratorios
 
-### Laboratorio 1: Autoencoder Variacional Multi-Vista (VAE) para MNIST-FMNIST
-- **Objetivo:** Desarrollar y analizar un Autoencoder Variacional Multi-Vista (VAE) para modelar los conjuntos de datos MNIST y FashionMNIST en un espacio latente compartido, utilizando generación cruzada. Cada par de imágenes MNIST-FMNIST está emparejado por categoría para mejorar la capacidad del VAE de aprender y generar representaciones significativas.
+### Laboratorio 1: Autocodificador Variacional Multi-Vista (VAE) para MNIST-FMNIST
+- **Objetivo:** Desarrollar y analizar un Autocodificador Variacional (VAE) para modelar los conjuntos de datos MNIST y FashionMNIST en un espacio latente compartido, utilizando generación cruzada. Cada par de imágenes MNIST-FMNIST está emparejado por categoría para mejorar la capacidad del VAE de aprender y generar representaciones significativas.
 - **Tareas Clave:**
   - Implementar un VAE multi-vista para procesar conjuntos de datos emparejados.
   - Generar imágenes cruzadas, es decir, reconstruir FashionMNIST a partir de imágenes MNIST y viceversa.
@@ -41,7 +41,7 @@ Este trabajo es un esfuerzo colaborativo de Marcos Sanson y Conrad Niewienda, ba
   - [LAB02.ipynb](./LAB02.ipynb)
 
 ### Laboratorio 3: Modelado de Datos de Eventos Clínicos con Procesos Puntuales
-- **Objetivo:** Aplicar el modelado de procesos puntuales para analizar la temporalidad y frecuencia de eventos clínicos. Utilizando procesos de Hawkes, este laboratorio busca capturar patrones en los datos de eventos de pacientes, como visitas recurrentes o tratamientos, e inferir insights clínicos a partir de los parámetros del modelo.
+- **Objetivo:** Aplicar el modelado de procesos puntuales para analizar la temporalidad y frecuencia de eventos clínicos. Utilizando procesos de Hawkes, este laboratorio busca capturar patrones en los datos de eventos de pacientes, como visitas recurrentes o tratamientos, e inferir conocimientos clínicos a partir de los parámetros del modelo.
 - **Tareas Clave:**
   - Agrupar a los pacientes basándose en características y ajustar un modelo de procesos de Hawkes para cada grupo.
   - Comparar los parámetros de los procesos de Hawkes entre grupos para inferir posibles diferencias en la dinámica de los eventos (por ejemplo, frecuencia, desencadenantes).
