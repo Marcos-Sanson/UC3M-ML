@@ -55,9 +55,9 @@ This work is a collaborative effort from Marcos Sanson and Conrad Niewienda, und
 In addition to the three labs, this larger project focuses on developing machine learning algorithms for automatic 3D segmentation of the left atrium, particularly in patients with atrial fibrillation. The work includes preprocessing medical imaging data, building ML models, and evaluating segmentation results against manual annotations.
 
 - **Project Poster**:  
-  ![Poster Preview](docs/Automatic_Atrium_Segmentation_Poster_Image.png)
-- **PDF Version**: [Download Poster PDF](docs/Automatic_Atrium_Segmentation_Poster.pdf)
-- **PNG Version**: [Download Poster PNG](docs/Automatic_Atrium_Segmentation_Poster_Image.png)
+  ![Poster Preview](Automatic_Atrium_Segmentation_Poster_Image.png)
+- **PDF Version**: [Download Poster PDF](Automatic_Atrium_Segmentation_Poster.pdf)
+- **PNG Version**: [Download Poster PNG](Automatic_Atrium_Segmentation_Poster_Image.png)
 
 For more details, visit this repository: **[CardiologyML - Automatic Atrium Segmentation](https://github.com/officialconfuzius/cardiologyml)**.
 
