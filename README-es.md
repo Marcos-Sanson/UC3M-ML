@@ -54,6 +54,14 @@ Este trabajo es un esfuerzo colaborativo de Marcos Sanson y Conrad Niewienda, ba
 ### Proyecto de Segmentación Automática del Atrio
 Además de los tres laboratorios, este proyecto más amplio se centra en desarrollar algoritmos de aprendizaje automático para la segmentación automática en 3D del atrio izquierdo, particularmente en pacientes con fibrilación auricular. El trabajo incluye el preprocesamiento de datos de imágenes médicas, la construcción de modelos de ML y la evaluación de resultados de segmentación frente a anotaciones manuales.
 
+### Proyecto de Segmentación Automática del Atrio
+Además de los tres laboratorios, este proyecto más amplio se centra en desarrollar algoritmos de aprendizaje automático para la segmentación automática en 3D del atrio izquierdo, particularmente en pacientes con fibrilación auricular. El trabajo incluye el preprocesamiento de datos de imágenes médicas, la construcción de modelos de ML y la evaluación de resultados de segmentación frente a anotaciones manuales.
+
+- **Póster del Proyecto** (en inglés):
+  ![Vista previa del póster](Automatic_Atrium_Segmentation_Poster_Image.png)
+- **Versión PDF**: [Descargar Póster PDF](Automatic_Atrium_Segmentation_Poster.pdf)
+- **Versión PNG**: [Descargar Póster PNG](Automatic_Atrium_Segmentation_Poster_Image.png)
+
 Para más detalles, visite este repositorio: **[CardiologyML - Segmentación Automática del Atrio](https://github.com/officialconfuzius/cardiologyml)**.
 
 ## Uso
